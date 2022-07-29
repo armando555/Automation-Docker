@@ -1,0 +1,11 @@
+{
+  "scn_project_name": "Armando Training",
+  "scn_application_name": "Test API Training 2",
+  "scn_transaction_name": "Testing docker connection 2",
+  "scn_job_name": "Second job",
+  "scn_build_number": "1",
+  "scn_version": "v1.0.0",
+  "scn_test_name": "daily",
+  "scn_tag": "training-test 2",
+  "scn_threads": "50"
+}
